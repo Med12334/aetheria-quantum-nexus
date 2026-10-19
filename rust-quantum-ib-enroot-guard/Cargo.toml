@@ -1,0 +1,8 @@
+[package]
+name = "aetheria-rust-quantum-fabric-guard"
+version = "1.0.0"
+edition = "2021"
+authors = ["Med12334 <Mohamedkhelifi41@gmail.com>"]
+description = "Layers 11-17: Post-Quantum Lattice KEM, InfiniBand PKey/MKey Guard, Enroot Hardener & Zero-Trust VRF/VLAN Firewall"
+
+[dependencies]
